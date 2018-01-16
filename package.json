@@ -1,0 +1,25 @@
+{
+  "name": "node-js-advance",
+  "version": "1.0.0",
+  "description": "Its me with advance NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chin2km/Learn-You-A-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chin2km/Learn-You-A-Node/issues"
+  },
+  "homepage": "https://github.com/chin2km/Learn-You-A-Node#readme",
+  "dependencies": {
+    "connect": "^3.6.5",
+    "http": "0.0.0",
+    "mysql": "^2.15.0",
+    "require": "^2.4.20"
+  }
+}
